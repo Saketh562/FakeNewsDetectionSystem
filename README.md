@@ -1,6 +1,4 @@
-Fake News Detection
-
-Fake News Detection in Python
+<h1>Fake News Detection in python</h1>
 
 This project, developed by Durga Sai Saketh, implements various natural language processing techniques and machine learning algorithms to classify fake news articles using Python’s Scikit-learn library.
 
